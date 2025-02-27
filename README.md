@@ -15,6 +15,6 @@
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
    
-[Нас можно найти в google.com.](https://google.com/)
+Нас можно найти в [google.com.](https://google.com/)
 
 [def]: https://github.com/netology-code/git-2-homeworks/blob/main/remote/README.md#список-клиентов "Список наших клиентов"
